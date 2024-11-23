@@ -165,7 +165,3 @@ Al ejecutarlo, se dibuja un triángulo equilátero con lados de 150 unidades.
 ## **Licencia**
 
 Este proyecto es de código abierto y está bajo la Licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
-
----
-
-Si necesitas ayuda adicional, ¡no dudes en preguntar! 🎨🐢
